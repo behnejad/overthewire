@@ -1,3 +1,8 @@
+ssh -p 2223 leviathan4@leviathan.labs.overthewire.org
+/etc/leviathan_pass/
 0 - leviathan0 - search for "password"
-1 - rioGegei8m - use ghidra to disassemble ./check
-2 - ougahZi8Ta - 
+1 - rioGegei8m - use ghidra to disassemble ./check or ltrace
+2 - ougahZi8Ta - use ghidra to disassemble ./printfile or ltrace - "a;bash -p"
+3 - Ahdiemoo1j - ltrace
+4 - vuH0coox6m - use ghidra to disassemble ./trash/bin
+5 - Tith4cokei - 
