@@ -1,0 +1,3 @@
+0 - leviathan0 - search for "password"
+1 - rioGegei8m - use ghidra to disassemble ./check
+2 - ougahZi8Ta - 
