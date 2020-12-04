@@ -6,4 +6,5 @@ ssh -p 2223 leviathan4@leviathan.labs.overthewire.org
 3 - Ahdiemoo1j - ltrace
 4 - vuH0coox6m - use ghidra to disassemble ./trash/bin
 5 - Tith4cokei - so simple
-6 - UgaoFee4li - 
+6 - UgaoFee4li - use ghidra to disassemble
+7 - ahy7MaeBo9 - 
