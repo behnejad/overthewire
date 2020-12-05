@@ -11,25 +11,25 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 9 - UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR - cat data.txt | strings | grep ==
 10 - truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk - base64 -d data.txt
 11 - IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR - cat data.txt | tr 'n-za-mN-ZA-M' 'a-zA-Z'
-12 - 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu - 
-13 -  - 
-14 -  - 
-15 -  - 
-16 -  - 
-17 -  - 
-18 -  - 
-19 -  - 
-20 -  - 
-21 -  - 
-22 -  - 
-23 -  - 
-24 -  - 
-25 -  - 
-26 -  - 
-27 -  - 
-28 -  - 
-29 -  - 
-30 -  - 
-31 -  - 
-32 -  - 
-33 -  - 
+12 - 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu - cat data.txt | xxd -r | gunzip -d | bunzip2 -d | gunzip -d | ....
+13 - 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL - ssh key
+14 - 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e - telnet 127.0.0.1 30000
+15 - BfMYroe26WYalil77FoDi9qh59eK5xNr - openssl s_client -connect 127.0.0.1:30001
+16 - cluFn7wTiGryunymYOu4RcffSxQluehd - openssl s_client -connect 127.0.0.1:31790
+17 - xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn - diff password*
+18 - kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd - sftp
+19 - IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x - ./bandit20-do cat /etc/bandit_pass/bandit20
+20 - GbKksEFF4yrVs6il55v6gwY5aVje5f0j - nc -l -p 11111
+21 - gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr - screen , nc -l -p
+22 - Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI - /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+23 - jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n - mytarget=$(echo I am user bandit23 | md5sum | cut -d ' ' -f 1)
+24 - UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ - cat /etc/bandit_pass/bandit24 > /tmp/asd
+25 - uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG - for i in $(seq -f "%05g" 10 15) / nc
+26 - 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z - ssh key
+27 - 3ba3118a22e93127a4ed485be72ef5ea - small screen / v / :e -> echo / :shell / :set shell=/bin/bash / 
+28 - 0ef186ac70e04ea33b4c1853d2526fa2 - git clone
+29 - bbc96594b4e001778eee9975372716b2 - git log -p
+30 - 5b90576bedb2cc04c86a9e924ce42faf - git checkout -b
+31 - 47e603bb428404d265f59c42920d81e5 - git show 
+32 - 56a9bf19c63d650ce78e6ec0354ee45e - git push
+33 - c9c3199ddf4121b10cf581a98d51caee - $0
