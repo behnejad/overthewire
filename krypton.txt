@@ -1,3 +1,4 @@
 ssh -p 2231 krypton1@krypton.labs.overthewire.org
 1 - KRYPTONISGREAT -  cat krypton2 | tr 'A-Za-z' 'N-ZA-Mn-za-m'
-2 - ROTTEN - 
+2 - ROTTEN - all alphabets
+3 - CAESARISEASY - 
