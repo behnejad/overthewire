@@ -24,4 +24,8 @@
 23 - D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE - 100 iloveyou
 24 - OsRmXFguozKpTZZ5X14zNO43379LZveg - passwd[]=d
 25 - GHF6X7YwACaYYssHVY05cFq83hRktl4c - inject <?php echo file_get_contents('/etc/natas_webpass/natas26'); ?>
-26 - oGgWAJ7zcGT28vYazGo4rkhOPDhBu34T - 
+26 - oGgWAJ7zcGT28vYazGo4rkhOPDhBu34T - inject logger instance
+27 - 55TBjpPZUUJgVP5b3BnbG6ON9uDPVzCJ - 
+28 -  - 
+29 -  - 
+30 -  - 
