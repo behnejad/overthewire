@@ -25,7 +25,7 @@
 24 - OsRmXFguozKpTZZ5X14zNO43379LZveg - passwd[]=d
 25 - GHF6X7YwACaYYssHVY05cFq83hRktl4c - inject <?php echo file_get_contents('/etc/natas_webpass/natas26'); ?>
 26 - oGgWAJ7zcGT28vYazGo4rkhOPDhBu34T - inject logger instance
-27 - 55TBjpPZUUJgVP5b3BnbG6ON9uDPVzCJ - 
-28 -  - 
+27 - 55TBjpPZUUJgVP5b3BnbG6ON9uDPVzCJ - create user natas27 + ' '*64 + '1'
+28 - JWwR438wkgTsNKBbcJoowyysdM82YjeF - 
 29 -  - 
 30 -  - 
